@@ -3,3 +3,6 @@
 
 ML algorithm of Logistic regression, Linear regression, KNN, K-means, Naive-bayes, Decision Tree
 
+
+
+
